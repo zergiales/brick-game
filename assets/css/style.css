@@ -1,0 +1,23 @@
+*{
+    transition: 1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#btnJugar{
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+    color: white;
+    border-radius: 10PX;
+    cursor: pointer;
+}
+#mycanvas{
+    box-shadow: 5px 1px 9px black;
+    background-color: lightskyblue;
+    border: 1pp solid black;
+}
